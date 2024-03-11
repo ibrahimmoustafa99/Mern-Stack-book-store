@@ -1,0 +1,33 @@
+.image{
+    border-radius: 20px;
+    width: 40vh;
+   
+}
+.all-data{
+    display: flex;
+}
+
+.contant{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+}
+.author{
+    color: brown;
+}
+.title{
+    font-size: larger;
+    font-weight: bold;
+}
+span{
+    color: brown;
+}
+.test{
+    font-weight:500;
+    font-size: larger;
+    line-height: 150%;
+    text-align: start;
+    
+
+}
